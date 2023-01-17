@@ -1,0 +1,5 @@
+# Visual studio
+/.vs
+
+# C-Make and build output
+/out
